@@ -1,2 +1,1 @@
-# fav_gems
-My favorite gem list
+# My favorite list of gems
